@@ -1,0 +1,175 @@
+.alignleft{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 380px;
+	position: relative;
+	margin-left: -533px;
+	width: 1631px;
+
+}
+
+#headertext{
+	position: relative;
+	left: 380px;
+
+}
+.mainLine {
+	/*left: -380px;*/
+	width: 1855px;
+}
+#zuluru div.crumbs
+{
+/*	width: 1481px;*/
+	padding-left: 758px;
+	/*position: relative;*/
+	margin-left: -381px;
+}
+.crumbs{
+	width: 1481px;
+}
+.topNav{
+	display:block;
+}
+.myContainer{
+	width: 1365px;
+}
+#zuluru{
+	width: 1365px;
+	margin-top:40px;
+	min-height:100%;
+/*	padding-bottom:-62px;*/
+}
+.container{
+	margin-left: 221px;
+	min-height:100%;
+	padding-bottom:63px !important;
+}
+.legalLine{
+	position: relative;
+	margin-left: 221px;
+
+}
+
+/*color
+This section of the code is specifically set aside to view the color
+style that the website will use.
+*/
+.cssplay_fly ul li:hover.sub > a {
+  color:#efa ;
+  background:#555;
+}
+
+.cssplay_fly a:active, .cssplay_fly a:focus {
+  color:#efa; 
+  background:#555;
+}
+
+.cssplay_fly ul li.sub.selected > a {
+  color:#efa;
+  background:#555 ;
+
+}
+#zuluru div.crumbs{
+	background: #555;
+	color: #c0c0c0;
+	text-shadow: #666 1px 1px 3px;
+}
+.cssplay_fly ul li:hover > a, .cssplay_fly ul li.selected > a {
+  color:#efa;
+  background:#555;
+}
+
+#headertext, #headertext a:link, #headertext a:visited {
+	color: #c0c0c0;
+}
+#headertext{
+	color: #c0c0c0;
+}
+.headerbackground{
+	background: #333;
+}
+.cssplay_fly ul li.sub a{
+	color: #c0c0c0;
+	background: #333;
+}
+.sub{
+	background: #333;
+}
+.cssplay_fly a, .cssplay_fly a:link {
+	background: #333;
+	color: #c0c0c0;
+}
+#zuluru h1{
+	color: #000;
+	text-shadow: #666 0px 1px 0px;
+	font-weight: lighter;
+}
+#zuluru h2{
+	color: #000;
+	font-weight: lighter;
+}
+}
+#zuluru ul li{
+	color: #000;
+}
+.help a, .help a:link{
+	color: #000;
+}
+.compLink {
+	color: #000;
+}
+#kick_start{
+	color: #000;
+}
+.link{
+	color: #000;
+}
+#zuluru #authMessage{
+	border-color: #555;
+	background-color: #333;
+	color: #c0c0c0;
+}
+#UserName a{
+	color: #000;
+}
+.topNav{
+	background: #fff;
+	color: #fff;
+}
+#zuluru #SystemNotice{
+	background: #333;
+	color: #c0c0c0;
+}
+#zuluru label{
+	color: #000;
+}
+#zuluru fieldset legend{
+	color: #000;
+}
+.cssplay_fly a, .cssplay_fly a:visited{
+	color: #c0c0c0;
+}
+a:-webkit-any-link{
+	color: #000;
+	text-decoration: none;
+}
+#logo{
+	position: relative;
+	margin-left: 426px;
+	margin-top: 6px;
+}
+.topLine{
+	background-color:#808080;
+	height: 1px;
+	width: 1857px;
+	border: 0;
+	box-shadow: 0px 2px 4px 1px #808080;
+	margin-top: 11px;
+}
+.footer{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 60px;
+	width: 100%;
+}

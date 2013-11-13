@@ -1,0 +1,32 @@
+.cssplay_fly ul li:hover.sub > a {
+  color:#efa ;
+  background:#555 !important;
+}
+
+.cssplay_fly a:active, .cssplay_fly a:focus {
+  color:#efa; 
+  background-color:#555 !important;
+}
+
+.cssplay_fly ul li.sub.selected > a {
+  color:#efa;
+  background-color:#555 !important;
+
+}
+
+.cssplay_fly ul li:hover > a, .cssplay_fly ul li.selected > a {
+  color:#efa;
+  background:#555 !important;
+}
+#headertext, #headertext a:link, #headertext a:visited {
+	color: #c0c0c0;
+}
+#headertext{
+	color: #c0c0c0;
+}
+.alignleft{
+	background: #333;
+}
+.cssplay_fly ul li.sub a{
+	color: #333;
+}
